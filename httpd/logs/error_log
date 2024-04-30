@@ -1,0 +1,39 @@
+[Mon Apr 29 02:18:18.024106 2024] [mpm_event:notice] [pid 131340:tid 140356751154048] AH00489: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Apr 29 02:18:18.024208 2024] [core:notice] [pid 131340:tid 140356751154048] AH00094: Command line: '/opt/programs/httpd/bin/httpd'
+[Mon Apr 29 02:18:28.485789 2024] [mpm_event:notice] [pid 131340:tid 140356751154048] AH00491: caught SIGTERM, shutting down
+[Mon Apr 29 03:30:05.559829 2024] [security2:notice] [pid 7825:tid 139988116851584] ModSecurity for Apache/2.9.7 (http://www.modsecurity.org/) configured.
+[Mon Apr 29 03:30:05.561197 2024] [security2:notice] [pid 7825:tid 139988116851584] ModSecurity: APR compiled version="1.7.4"; loaded version="1.7.4"
+[Mon Apr 29 03:30:05.561232 2024] [security2:notice] [pid 7825:tid 139988116851584] ModSecurity: PCRE2 compiled version="10.32 "; loaded version="10.32 2018-09-10"
+[Mon Apr 29 03:30:05.561234 2024] [security2:notice] [pid 7825:tid 139988116851584] ModSecurity: LIBXML compiled version="2.9.7"
+[Mon Apr 29 03:30:05.561250 2024] [security2:notice] [pid 7825:tid 139988116851584] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Apr 29 03:30:05.577679 2024] [mpm_event:notice] [pid 7826:tid 139988116851584] AH00489: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Apr 29 03:30:05.577765 2024] [core:notice] [pid 7826:tid 139988116851584] AH00094: Command line: '/opt/programs/httpd/bin/httpd'
+[Mon Apr 29 03:30:24.578868 2024] [security2:error] [pid 7828:tid 139987993306880] ModSecurity: ModSecurity requires mod_unique_id to be installed.
+[Mon Apr 29 03:30:36.942289 2024] [mpm_event:notice] [pid 7826:tid 139988116851584] AH00491: caught SIGTERM, shutting down
+[Mon Apr 29 03:33:02.381171 2024] [security2:notice] [pid 7984:tid 139748606557056] ModSecurity for Apache/2.9.7 (http://www.modsecurity.org/) configured.
+[Mon Apr 29 03:33:02.381237 2024] [security2:notice] [pid 7984:tid 139748606557056] ModSecurity: APR compiled version="1.7.4"; loaded version="1.7.4"
+[Mon Apr 29 03:33:02.381241 2024] [security2:notice] [pid 7984:tid 139748606557056] ModSecurity: PCRE2 compiled version="10.32 "; loaded version="10.32 2018-09-10"
+[Mon Apr 29 03:33:02.381242 2024] [security2:notice] [pid 7984:tid 139748606557056] ModSecurity: LIBXML compiled version="2.9.7"
+[Mon Apr 29 03:33:02.381244 2024] [security2:notice] [pid 7984:tid 139748606557056] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Apr 29 03:33:02.388261 2024] [mpm_event:notice] [pid 7985:tid 139748606557056] AH00489: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Apr 29 03:33:02.388304 2024] [core:notice] [pid 7985:tid 139748606557056] AH00094: Command line: '/opt/programs/httpd/bin/httpd'
+[Mon Apr 29 03:33:07.576901 2024] [security2:error] [pid 7986:tid 139748474619648] ModSecurity: ModSecurity requires mod_unique_id to be installed.
+[Mon Apr 29 03:33:17.367242 2024] [mpm_event:notice] [pid 7985:tid 139748606557056] AH00491: caught SIGTERM, shutting down
+[Mon Apr 29 04:44:54.277553 2024] [security2:notice] [pid 8507:tid 140583218346880] ModSecurity for Apache/2.9.7 (http://www.modsecurity.org/) configured.
+[Mon Apr 29 04:44:54.277653 2024] [security2:notice] [pid 8507:tid 140583218346880] ModSecurity: APR compiled version="1.7.4"; loaded version="1.7.4"
+[Mon Apr 29 04:44:54.277659 2024] [security2:notice] [pid 8507:tid 140583218346880] ModSecurity: PCRE2 compiled version="10.32 "; loaded version="10.32 2018-09-10"
+[Mon Apr 29 04:44:54.277661 2024] [security2:notice] [pid 8507:tid 140583218346880] ModSecurity: LIBXML compiled version="2.9.7"
+[Mon Apr 29 04:44:54.277663 2024] [security2:notice] [pid 8507:tid 140583218346880] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Apr 29 04:44:54.288444 2024] [mpm_event:notice] [pid 8508:tid 140583218346880] AH00489: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Apr 29 04:44:54.288490 2024] [core:notice] [pid 8508:tid 140583218346880] AH00094: Command line: '/opt/programs/httpd/bin/httpd'
+[Mon Apr 29 04:44:59.209893 2024] [security2:error] [pid 8511:tid 140583094802176] ModSecurity: ModSecurity requires mod_unique_id to be installed.
+[Mon Apr 29 04:55:36.283304 2024] [mpm_event:notice] [pid 8508:tid 140583218346880] AH00491: caught SIGTERM, shutting down
+[Tue Apr 30 02:20:21.200189 2024] [security2:notice] [pid 1613:tid 139677330193280] ModSecurity for Apache/2.9.7 (http://www.modsecurity.org/) configured.
+[Tue Apr 30 02:20:21.201123 2024] [security2:notice] [pid 1613:tid 139677330193280] ModSecurity: APR compiled version="1.7.4"; loaded version="1.7.4"
+[Tue Apr 30 02:20:21.201137 2024] [security2:notice] [pid 1613:tid 139677330193280] ModSecurity: PCRE2 compiled version="10.32 "; loaded version="10.32 2018-09-10"
+[Tue Apr 30 02:20:21.201138 2024] [security2:notice] [pid 1613:tid 139677330193280] ModSecurity: LIBXML compiled version="2.9.7"
+[Tue Apr 30 02:20:21.201139 2024] [security2:notice] [pid 1613:tid 139677330193280] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Apr 30 02:20:21.209632 2024] [mpm_event:notice] [pid 1614:tid 139677330193280] AH00489: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Tue Apr 30 02:20:21.209683 2024] [core:notice] [pid 1614:tid 139677330193280] AH00094: Command line: '/opt/programs/httpd/bin/httpd'
+[Tue Apr 30 02:20:41.175225 2024] [security2:error] [pid 1616:tid 139677181470464] ModSecurity: ModSecurity requires mod_unique_id to be installed.
+[Tue Apr 30 02:20:53.218651 2024] [mpm_event:notice] [pid 1614:tid 139677330193280] AH00491: caught SIGTERM, shutting down

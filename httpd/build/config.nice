@@ -1,0 +1,10 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--prefix=/opt/programs/httpd" \
+"--with-included-apr" \
+"--enable-mpms-shared=event" \
+"--enable-mods-shared=all" \
+"$@"
