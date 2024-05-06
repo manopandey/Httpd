@@ -1,0 +1,11 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--prefix=/opt/programs/httpd/" \
+"--with-apr=/opt/programs/httpd/apr/bin/apr-1-config" \
+"--with-apr-util=/opt/programs/httpd/apr/bin/apu-1-config" \
+"--enable-mpms-shared=event" \
+"--enable-mods-shared=all" \
+"$@"
